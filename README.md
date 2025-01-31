@@ -2,7 +2,7 @@
 </div>
 
 <div align='center'>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFkYWE1YTk4bGVjcDMwMXVoeGg5N2c2ZGpmYmY5ZHdoZml1Z3NteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JkP5QNx7quH8ar56GP/giphy.gif" alt="GIF Description" width="300" height="200" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFkYWE1YTk4bGVjcDMwMXVoeGg5N2c2ZGpmYmY5ZHdoZml1Z3NteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JkP5QNx7quH8ar56GP/giphy.gif" alt="GIF Description" width="300" height="300" />
 </div>
 <!--
 **yhc0211/yhc0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
